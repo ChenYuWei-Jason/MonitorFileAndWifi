@@ -15,4 +15,10 @@
   + 寫入
   + 刪除
   + 改檔名
-+ 使用`CWWiFiClient`來變更wifi狀態
++ 使用`CWWiFiClient`:
+  + 來變更wifi狀態
+  + 偵測wifi狀態變化
++ 使用`SCDynamicStoreSetNotificationKeys`:
+  + 使用者有登入有異動的偵測
++ 使用`SCDynamicStoreCopyConsoleUser`:
+  + 偵測目前登入者是誰  
