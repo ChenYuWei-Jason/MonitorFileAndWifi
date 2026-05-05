@@ -22,3 +22,6 @@
   + 使用者有登入有異動的偵測
 + 使用`SCDynamicStoreCopyConsoleUser`:
   + 偵測目前登入者是誰  
+
+### 注意事項
+- 目前尚未偵測console直接派送指令，是透過監控ITProfile.ini政策檔案異動來做管控
