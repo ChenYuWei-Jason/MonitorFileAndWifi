@@ -28,4 +28,4 @@
 
 [蘋果官方文件](https://developer.apple.com/documentation/)
 
-![一顆蘋果](https://science.nasa.gov/wp-content/uploads/2023/06/sun-h1180-jpg.webp)
+![一顆蘋果](https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg)
