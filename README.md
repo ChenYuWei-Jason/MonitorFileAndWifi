@@ -13,7 +13,6 @@
 ### 使用技術
 + 使用`DispatchSourceFileSystemObject`協定，偵測檔案是否：
   + 寫入
-    * 妳好 
   + 刪除
   + 改檔名
 + 使用`CWWiFiClient`:
