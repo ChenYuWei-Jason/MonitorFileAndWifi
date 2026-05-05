@@ -2,7 +2,7 @@
 
 ### 專案簡介
 1. 能有效做到管控wifi
-2. 能偵測政策檔案ITProfile.ini變化
+1. 能偵測政策檔案ITProfile.ini變化
 
 ### 功能列表
 - 可以偵測ITProfile.ini檔案, Wireless Deny的值變化
