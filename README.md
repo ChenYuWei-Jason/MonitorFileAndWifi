@@ -24,4 +24,6 @@
   + 偵測目前登入者是誰  
 
 ### 注意事項
-- 目前尚未偵測console直接派送指令，是透過監控ITProfile.ini政策檔案異動來做管控
+- 目前尚未偵測console直接派送政策，是透過監控ITProfile.ini政策檔案異動來做管控
+
+[蘋果官方文件](https://developer.apple.com/documentation/)
